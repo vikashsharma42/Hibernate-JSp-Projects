@@ -1,0 +1,67 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+ <!DOCTYPE hibernate-configuration PUBLIC 
+ "-//hibernate/Hibernate Mapping DTD 5.3//EN"
+ "http://hibernate.sourceforge.net/hibernate-mapping-5.3.dtd">
+
+<hibernate-mapping>
+	<class name="com.rail.User" table="irctc_user">
+		<id name="userName">
+			<generator class="assigned" />
+		</id>
+		<property name="password" />
+		<property name="firstName" />
+		<property name="middleName" />
+		<property name="lastName" />
+		<property name="occupation" />
+		<property name="dob" />
+		<property name="country" />
+		<property name="phone" />
+		<property name="city" />
+		<property name="pincode" />
+		<property name="state" />
+		<property name="street" />
+		<property name="locality" />
+		<property name="email" />
+	</class>
+
+	<class name="com.admin.Train" table="irctc_trainlist">
+		<id name="TrainNumber">
+			<generator class="assigned" />
+		</id>
+		<property name="Ac" />
+		<property name="Acc" />
+		<property name="Accc" />
+		<property name="AcPrice" />
+		<property name="AccPrice" />
+		<property name="AcccPrice" />
+		<property name="End" />
+		<property name="JourneyFrom" />
+		<property name="SLPrice" />
+		<property name="SL" />
+		<property name="Start" />
+		<property name="JourneyTo" />
+		<property name="TotalTime" />
+		<property name="TrainName" />
+	</class>
+
+	<class name="com.passenger.passengerDetails"
+		table="Passenger_Details">
+	   <id name="PNR">
+			<generator class="assigned" />
+		</id>
+		<property name="bookingDate" column="Booking_Date"/>
+		<property name="bookingTime" column="Booking_Time"/>
+		<property name="name" column="Name"/>
+		<property name="age" column="Age"/>
+		<property name="country" column="Country"/>
+		<property name="coach" column="Coach_No"/>
+		<property name="berthNo" column="Berth_No"/>
+		<property name="JDate" column="Journey_Date"/>
+		<property name="gender" column="Gender"/>
+		<property name="price" column="Ticket_Price"/>
+		<property name="booking" column="Booking_Type"/>
+		<property name="phone" column="Phone"/>
+		<property name="trainNo" column="Train_No"/>
+	</class>
+
+</hibernate-mapping>

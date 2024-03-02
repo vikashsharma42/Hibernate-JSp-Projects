@@ -1,0 +1,4170 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.5s ease;
+}
+
+/*-----------ADVERTISEMENT--------*/
+/*
+.advertizement{
+    width: 100%;
+    height: 10rem;
+  
+    background: navajowhite;
+}
+.advertizement img{
+    margin-top: 2rem;
+    padding-left: 17rem;
+}
+
+.logo_container{
+    margin-left: 17rem;
+}
+.logo_container h3{
+    margin-top: 5rem;
+    padding-left: 8rem;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.logo_container h4{
+    margin-top: -.6rem;
+    padding-left: 6rem;
+    font-weight: bold;
+    font-size: 2.7rem;
+}
+.all_logo{
+    margin-top: 4rem;
+    padding-left: 11rem;
+   /* max-width: 60rem;*/
+}/*
+.image_logo{
+    font-size: 4rem;
+    padding-left: 5rem;
+}
+.all_logo_Container1{
+    margin-left: 0rem;
+    margin-top: 0rem;
+}
+.all_logo_Container2{
+    margin-left: 13rem;
+    margin-top: -8rem;
+}
+.all_logo_Container3{
+    margin-left: 33rem;
+    margin-top: -8rem;
+}
+
+.all_logo_Container4{
+    margin-left: 47rem;
+    margin-top: -9rem;
+}
+.all_logo_Container5{
+    margin-left: 56rem;
+    margin-top: -8rem;
+}
+.all_logo_Container6{
+    margin-left: 0rem;
+    margin-top: 6rem;
+}
+.all_logo_Container7{
+    margin-left: 14rem;
+    margin-top: -8rem;
+}
+.all_logo_Container8{
+    margin-left: 28rem;
+    margin-top: -8rem;
+}
+.all_logo_Container9{
+    margin-left: 48rem;
+    margin-top: -9rem;
+}
+.all_logo_Container10{
+    margin-left: 57rem;
+    margin-top: -8rem;
+}
+.logo_scehule1{
+    font-size: 1.5rem;
+    margin-left: 4rem;
+    margin-top:1.5rem;
+}
+.logo_scehule2{
+    font-size: 1.5rem;
+    margin-left: 5rem;
+    margin-top:1.5rem;
+}
+.logo_scehule3{
+    font-size: 1.5rem;
+    margin-left: -2rem;
+    margin-top:1.5rem;
+}
+.logo_scehule4{
+    font-size: 1.5rem;
+    margin-left: -1rem;
+    margin-top:0rem;
+}
+.logo_scehule5{
+    font-size: 1.5rem;
+    margin-left: 6rem;
+    margin-top:1.5rem;
+}
+.logo_scehule6{
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    margin-top:1.5rem;
+}
+.logo_scehule7{
+    font-size: 1.5rem;
+    margin-left: 4rem;
+    margin-top:1.5rem;
+}
+.logo_scehule8{
+    font-size: 1.5rem;
+    margin-left: 4rem;
+    margin-top:1.5rem;
+}
+.logo_scehule9{
+    font-size: 1.5rem;
+    margin-left: 0rem;
+    margin-top:1.5rem;
+}
+.logo_scehule10{
+    font-size: 1.5rem;
+    margin-left: 4rem;
+    margin-top:1.5rem;
+}
+.jai_mata_di{
+    margin-top: 4rem;
+}
+.jai_mata_di img{
+    padding-left: 11rem;
+    width: 82%;
+}
+.jai_mata_di hr{
+    margin-top: -.01rem;
+    border: 2px solid grey;
+}
+
+.train_details{
+    width: 100%;
+    height: 1352px;
+    margin-top: -1rem;
+    background: whitesmoke;
+}
+.train_details h2{
+    padding-top: 4rem;
+    text-align: center;
+    font-weight: bold;
+    font-family: plain;
+}
+.train_details_card1{
+   margin-top: 4rem;
+   margin-left: 13rem;
+   width: 22%;
+   height: 34rem;
+   background: white;
+   border: .3px solid grey;
+}
+.train_img{
+    height: 15rem;
+    width: 20.8rem;
+    /*border: .6px solid grey;*/
+}/*
+.train_details_card1_h3{
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    font-weight: 600;
+    font-family: plain;
+}
+.train_details_card1_p{
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    width: 17.5rem;
+    font-size: .9rem;
+    font-family: plain;
+}
+.train_details_ancher{
+    text-decoration: none;
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    color: black;
+    font-weight: 600;
+    text-decoration-style: none;
+    cursor: pointer;
+}
+.train_details_ancher:hover{
+    color: black;
+}
+.train_details_card2{
+   margin-top: -34rem;
+   margin-left: 36rem;
+   width: 22%;
+   height: 34rem;
+   background: white;
+   border: .3px solid grey;
+}
+.train_details_card3{
+   margin-top: -34rem;
+   margin-left: 60rem;
+   width: 22%;
+   height: 34rem;
+   background: white;
+   border: .3px solid grey;
+}
+
+.train_details_card4{
+   margin-top: 1.5rem;
+   margin-left: 13rem;
+   width: 22%;
+   height: 34rem;
+   background: white;
+   border: .3px solid grey;
+}
+*/
+/*------FOTTER---------*/
+
+.fotter{
+    width: 100%;
+    height: 9.5vh;
+    background:#6610f2;
+    padding-left: 24rem;
+    padding-top:1.5rem;
+}/*
+.fotter h6{
+    color: white;
+    font-weight: 600;
+}
+.social_app{
+    margin-top: -2.5rem;
+    left: 46%; 
+    display: flex;
+    position: absolute;
+}
+.social_app a{
+    width: 65px;
+    height:50px;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 0 10px 8px red;
+    margin:0 30px ;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+}
+.fab{
+    font-size: 35px;
+    line-height: 50px;
+    position: relative;
+    z-index: 10;
+    transition: color 0.5s;
+}
+.fa-facebook{  
+    color: #316FF6;
+ }
+.fa-youtube{
+  color: #CD201F;
+}
+.fa-instagram{
+    color: #fccc63 ;  
+}
+.fa-twitter-square{
+    color:  #1DA1F2;
+}
+.social_app a::after{
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: -90px;
+    left:0;
+    background: linear-gradient(-45deg,#ed1c94,#ffec17);
+    position: absolute;
+}
+.social_app a:hover::after{
+    top: 0;
+}
+.fotter2{
+    margin-top: .2rem;
+    width: 100%;
+    height: 45vh;
+    background: #6610f2;
+    font-family: plain;
+   /* color: white;*/
+    font-weight: 600;
+}/*
+.fotter2:hover{
+    color: white;
+}
+.fotter_data a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    list-style: none;
+}
+.fotter_data a:hover{
+    color: white;
+}
+.fotter_data{
+   display: flex;
+    padding-top: 2rem; 
+}
+.fotter_data span{
+    padding-left: 12.5rem;
+}
+.fotter_data2{
+    margin-top: 2.3rem;
+    display: flex;
+}
+.fotter_data2 a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    list-style: none;
+}
+.fotter_data2 a:hover{
+    color: white;
+}
+.fotter_data2 span{
+   padding-top: 2rem;
+}
+.fotter_data_span1{
+    padding-left: 12.5rem;
+}
+.fotter_data_span2{
+    padding-left: 10rem;
+}
+.fotter_data_span3{
+   padding-left: 10.5rem;
+}
+.fotter_data_span4{
+    padding-left: 5rem;
+}
+.fotter_data_span5{
+    padding-left: 9rem;
+}
+.fotter_data_span6{
+    padding-left: 11.9rem;
+}
+.fotter_data_span7{
+    padding-left: 2rem;
+}
+.fotter_data_span8{
+    padding-left: 16rem;
+}
+.fotter_data_span9{
+    padding-left: 13rem;
+}
+.fotter_data_span10{
+    padding-left: 10rem;
+}
+.fotter_data_span11{
+    padding-left: 15rem;
+}
+.fotter_data_span12{
+    padding-left: 21rem;
+}
+.fotter_data3{
+    margin-top: 2.3rem;
+    display: flex;
+}
+.fotter_data3 a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+.fotter_data3 a:hover{
+    color: white;
+}
+.fotter_data3 span{
+    margin-top: 2rem;
+}
+.fotter_data4{
+    margin-top: 2.3rem;
+    display: flex;
+}
+.fotter_data4 a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    list-style: none;
+}
+.fotter_data4 a:hover{
+    color: white;
+}
+.fotter_data4 span{
+    margin-top: 2rem;
+}
+.fotter_data5{
+    margin-top: 2.3rem;
+    display: flex;
+}
+.fotter_data5 a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    list-style: none;
+}
+.fotter_data5 a:hover{
+    color: white;
+}
+.fotter_data5 span{
+    margin-top: 2rem;
+}
+.fotter3{
+    height: 10vh;
+}
+.fotter3_image{
+    display: flex;
+    font-size: 12px;
+    position: absolute;
+}
+.fotter3_image img{
+    padding-left: 11rem;
+}
+.fotter3_image_span1{
+    padding-left: 5rem;
+    font-family: sans-serif;
+}
+.fotter3_image_span2{
+    margin-left: -6rem;
+    margin-top: 1rem;
+}
+.fotter3_image_span3{
+     color: blue;
+     margin-top:1rem;
+     padding-left: .5rem;
+     font-size: 1rem;
+     font-weight: 600;
+     font-family: plain;
+}
+.fotter3_image_span3:hover{
+     color:red;
+     font-size: 1.5rem;
+     transition: color 0.9s;
+     cursor: pointer;
+}
+.smile_span{
+    font-size: 1.5rem;
+    padding-top: .5rem;
+}
+.smile_span:hover{
+    cursor: pointer;
+}
+*/
+/*-------------MAHARAJA-EXPRESS--------------*/
+
+.maharaja_bg_container{
+    width: 100%;
+    display: inline-block;
+}
+.maharaja_bg_container img{
+    width: 100%;
+    height: 50vh;
+}
+.bgMaharaja{
+	width: 100%;
+	height: 5vh;
+	background-color: white;
+}
+.maharaja_bg_logo{
+    display: flex;
+    margin-top: -21.2vw;  
+}
+.maharaja_bg_logo img{
+  width: 12%;
+  height: 18vh;
+  padding-left: 2vw;
+  position: fixed;
+}
+.maharaja_navbar{
+    width: 100%;
+    height: 10vh;
+    margin-left: 500px;
+    border-radius: 2px;
+    position: fixed;
+    background: linear-gradient(-25deg,#ffec17,#ed1c94,#dc3545);
+}
+.maharaja_navbar span{
+    font-size: 20px;
+    margin-top: 1.5vw;
+    display: inline-flex;
+    padding-left: 80px;
+    color: #ffc107;
+    font-weight: 600;
+    font-family: elephant;
+    cursor: pointer;
+}
+.maharaja_navbar span i{
+    color: white;
+    font-family: plain;
+}
+.maharaja_navbar span i:hover{
+    color: #ffc107;
+}
+.maharaja_rail{
+    margin-top: 210px;
+    width: 99%;
+    height: 45vh;
+    margin-left: .5rem;
+    background-color: #dc3545;
+}
+.maharaja_rail h1{
+    color: #ffc107;
+    padding: .5rem;
+    margin-left: 13.5rem;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    font-size: 1.8rem;
+    padding-top: 2rem;
+}
+.maharaja_rail h4{
+    margin-top: -.7rem;
+    color: #ffffff;
+    margin-left: 15rem;
+    font-size: .9rem; 
+}
+.maharaja_rail_container{
+    max-width: 43rem;
+    margin-left: 2rem;
+    color: #ffff;
+}
+.maharaja_rail_container p{
+    padding-top: 1rem;
+}
+.horizental_img{
+margin-top: -16.6rem;  
+  margin-left: 46.5rem;
+  height: 35vh; 
+}
+.maharaja_rail_container2{
+    margin-left: 50rem;
+    margin-top: -20rem;
+    color:#ffff;
+}
+.maharaja_rail_container2 h2{
+    color: #ffc107;
+    padding: .5rem;
+    margin-left: 13.5rem;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    font-size: 1.8rem;
+    padding-top: 2rem;
+}
+.maharaja_rail_container2_img{
+    padding-left: 4rem;
+}
+.maharaja_rail_container2 h3{
+    font-size: 1rem;
+    font-family: Roboto, sans-serif;
+    margin-top: .7rem;
+    margin-left: 3.4rem;
+}
+.horizental_img2{
+  margin-top: -9rem;  
+  margin-left: 20rem;
+  height: 28vh; 
+}
+.maharaja_rail_container2_img3{
+    margin-top: -15rem;
+    padding-left: 8rem;
+}
+.maharaja_rail_container2 h4{
+    margin-top: -5.4rem;
+    font-size: 1rem;
+    font-family: Roboto, sans-serif;
+    margin-left: 27rem;
+}
+.maharaja_heads{
+    width: 70%;
+    height: 10vh;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .18), 0 4px 15px 0 rgba(0, 0, 0, .15);
+    margin-top: 1rem;
+    border-radius: 6px;
+    background:#ad211c;
+    margin-left: 15vw;z-index: 2;
+    position: relative;
+}
+.maharaja_heads h1{
+    text-align: center;
+    padding-top: 1vw;
+    color: #fefd98;
+    font-size: 32px;
+    font-family: PoiretOne;
+}
+.maharaja_train_container{
+    width: 72.9%;
+    height: 466vh;
+    margin-left: 13.5vw;
+    background:whitesmoke;
+    border-radius: 5px;
+    margin-top: -2vw;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .18), 0 4px 15px 0 rgba(0, 0, 0, .15);
+}
+.maharaja_train_container_details{
+   padding-top:3vw;
+   padding-left: 25px;
+   max-width: 98.8%;
+}
+.maharaja_train_container_details p{
+   margin-bottom: 20px;
+   text-align: justify;
+   line-height: 26px;
+   font-size: 18px;
+   font-weight: 600;
+}
+.Awards_card{
+    width: 99%;
+    height: 67vh;
+    font-weight: 400;
+    margin-bottom: 0.5rem !important;
+    padding: 0.5rem !important;
+    text-align: center !important;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card:hover{
+     transition: all .55s ease-in-out;
+     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card h6{
+    font-size: 1.6rem;
+    font-family: serif;
+    color: #6c757d;
+}
+.Awards_card h5{
+    margin-top: .5rem;
+    font-weight: 600;
+    font-family: serif;
+    color: #343a40;
+}
+.maharaja_train_container_details h4{
+    margin-top: 1rem;
+    text-align: center;
+    font-family: serif;
+    color: #6c757d;
+    font-size: 34px;
+} 
+.Awards_container{
+   display: flex;
+   flex-wrap: wrap;
+   width: 48%;
+   height: 45vh;
+   border-radius: 6px;
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_container:hover{
+     transition: all .55s ease-in-out;
+     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_container2{
+   margin-top: -20.5rem;
+   margin-left: 34rem;
+   width: 48%;
+   height: 45vh;
+   border-radius: 6px;
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_container2:hover{
+     transition: all .55s ease-in-out;
+     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_img{
+    margin:8px  10px;
+    width: 96%;
+    height: 95%;
+}
+.Awards_container3{
+   margin-top: 1rem;
+   width: 48%;
+   height: 66vh;
+   border-radius: 6px;
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_container3 p{
+    text-align: center;
+    font-size: 14px;
+}
+.Awards_container3:hover{
+     transition: all .55s ease-in-out;
+     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_h2{
+    text-align: center;
+    padding-top: 1rem;
+    font-family: serif;
+    color: #6c757d;
+    font-size: 28px;
+}
+.Awards_container4{
+   margin-top: -30rem;
+   margin-left: 34rem;
+   width: 48%;
+   height: 65vh;
+   border-radius: 6px;
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards2_img{
+    margin: .2px  10px;
+    width: 96%;
+    height: 71.4%;
+}
+.Awards_container4 p{
+    text-align: center;
+    font-size: 14px;
+    padding: 5px 5px;
+}
+.Awards_container4:hover{
+     transition: all .55s ease-in-out;
+     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card2{
+   margin-top: 1.5rem;
+   width: 22%;
+   height: 59vh;
+   border-radius: 6px;
+   justify-content: center;
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card2:hover{
+     transition: all .55s ease-in-out;
+     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card2 p{
+    text-align: center;
+    font-size: 14px;
+    padding: 5px 5px;
+    cursor: pointer;
+}
+.images{
+    cursor: pointer;
+    width: 95%;
+    height: 76%;
+    margin-top: -.9rem;
+    padding-left: .8rem;
+}
+.Awards_card3{
+   margin-top: -26.9rem;
+   margin-left: 16.8rem;
+   width: 23%;
+   height: 59vh;
+   border-radius: 6px;
+   justify-content: center;
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card3:hover{
+     transition: all .55s ease-in-out;
+     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card3 p{
+    text-align: center;
+    font-size: 14px;
+    padding: 5px 5px;
+    cursor: pointer;
+}
+.Awards_card4{
+   margin-top: -26.9rem;
+   margin-left: 34rem;
+   width: 23%;
+   height: 59vh;
+   border-radius: 6px;
+   justify-content: center;
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card4:hover{
+     transition: all .55s ease-in-out;
+     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card4 p{
+    text-align: center;
+    font-size: 14px;
+    padding: 5px 5px;
+    cursor: pointer;
+}
+.Awards_card5{
+   margin-top: -26.9rem;
+   margin-left: 51.5rem;
+   width: 22%;
+   height: 59vh;
+   border-radius: 6px;
+   justify-content: center;
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card5:hover{
+     transition: all .55s ease-in-out;
+     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.Awards_card5 p{
+    text-align: center;
+    font-size: 14px;
+    padding: 5px 5px;
+    cursor: pointer;
+}
+footer{
+    display: flex;
+    margin-top: 1.2rem;
+    width: 100%;
+    height: 16vh;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    background: linear-gradient(25deg,#6c757d,#17a2b8,#6f42c1,#6610f2);
+}
+.Tourism_Corporation_Ltd{
+	margin-top: 1rem;
+    padding-left: 5rem;
+    color: white;
+}
+.Ltd{
+    margin-top: -1rem;
+}
+.social_app2{
+    margin-top: -4.5rem;
+    left: 50%; 
+    display: flex;
+    position: absolute;
+}
+.social_app2 a{
+    width: 65px;
+    height:50px;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 0 10px 8px red;
+    margin:0 30px ;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+}
+.social_app2 a::after{
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: -90px;
+    left:0;
+    background: linear-gradient(-45deg,#ed1c94,#ffec17);
+    position: absolute;
+}
+.social_app2 a:hover::after{
+    top: 0;
+}
+.maharaja_foot2{
+    width: 100%;
+    height: 11vh;
+    justify-content: center;
+    display: flex;
+}
+.maharaja_foot2 img{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+.img_logo{
+    cursor: pointer;
+    margin-left: 5rem;   
+    height: 7vh;
+}
+.img_g20{
+    cursor: pointer;
+    margin-left: 5rem;
+}
+.maharaja_footer_copyright{
+    width: 100%;
+    height: 6vh;
+    background-color: #fefd98;
+    display: flex;
+}
+.maharaja_footer_copyright p{
+    margin-top: .5rem;
+    color: #000;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: 200;
+    margin-left: 25rem;
+}
+.maharaja_footer_copyright span{
+	 margin-top: .5rem;
+	margin-left: 15rem;
+}
+.maharaja_footer_copyright strong{
+	margin-top: .5rem;
+	color: #17a2b8;
+	margin-left.5rem;
+    font-size: 1.2rem;
+    font-weight: 200;
+    font-family: plain;
+}
+.maharaja_footer_copyright strong:hover{
+    color: red;
+    font-size: 1.5rem;
+    transition: color 0.9s;
+    cursor: pointer;
+}
+.maharaja_copyright_span2{
+    position: absolute;
+    margin-top: -2.8rem;
+    margin-left:74rem;
+}
+.maharaja_span3{
+    position: absolute;
+    margin-left: 1rem;
+    margin-top: .1rem;
+    color: #17a2b8;
+    font-size: 1rem;
+    font-weight: 200;
+    font-family: plain;
+}
+.maharaja_span3:hover{
+    color:red;
+    font-size: 1.5rem;
+    transition: color 0.9s;
+    cursor: pointer;
+}
+.maharaja_smile{
+   position: absolute;
+   font-size: 1.5rem;
+   margin-top: -.5rem;
+}
+.maharaja_span:hover{
+    cursor: pointer;
+}
+
+/*-----------IRCTC-Tourism--------------*/
+
+.tourism_head{
+    height: 9vh;
+    background-color: #f8f9fa;;
+    display: flex;
+    width: 100%;
+    position: fixed;
+}
+.tourism_head1{
+    height: 9vh;
+    background-color: #f8f9fa;;
+    display: flex;
+    width: 45%;
+}
+.tourism_head1 img{
+    cursor: pointer;
+    margin-top: .3rem;
+    margin-bottom: .3rem;
+    padding-left: 1.9rem;
+}
+.tourism_head2{
+    height: 9vh;
+    display: flex;
+}
+.tourism_head2 img{
+    cursor: pointer;
+    margin-top: .3rem;
+    margin-bottom: .3rem;
+   
+}
+.tourism_head2 img{
+    margin-top: .3rem;
+    margin-bottom: .3rem;
+}
+.tourism_head3{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 22rem;
+}
+.tourism_head3 span{
+    cursor: pointer;
+    font-family: sans-serif serif;
+    margin-top: .3rem;
+    margin-bottom: .3rem;
+    padding-left: 2rem;
+}
+.tourism_head4{
+    margin-top: .1rem;
+    margin-bottom: .1rem;
+    margin-right: 1rem;
+}
+.tourism_head4 img{
+    cursor: pointer;
+    height: 7vh; 
+}
+.tourism_bg {
+	margin-top:5rem;
+    width: 100%;
+    height: 50vh;
+    background: url(../Tourism_images/bg_banner.webp) no-repeat;
+    background-size: 100% 100%;
+}
+.tourism_bg-flight{
+	position: absolute;
+    margin-top: 5rem;
+    width: 100%;
+}
+.tourism_bg-train{
+    width: 100%;
+    position: absolute;
+    margin-top: 14rem;
+}
+.tourism_bg-bus{
+    width: 100%;
+    position: absolute;
+    margin-top: 14.8rem;
+}
+.tourism_bg-sea{
+    width: 100%;
+    height: 15vh;
+    position: absolute;
+    margin-top: -4rem;
+    background: url(../Tourism_images/sea.jpg);
+}
+.sea-container{
+    width: 100%;
+}
+.tourism_container{
+    margin-top: 6rem;
+    margin-left: 12rem;
+    max-width: 75.7%;
+    height: 230vh;
+}
+.tourism_container h2{
+     margin-left: 1rem;
+}
+.tourism_container2{
+    margin-left: 1rem;
+    margin-top: 2rem;
+    display: flex;
+    max-width: 31.4%;
+}
+.tourism_container2 img{
+    display: flex;
+    border-radius: 10px;
+}
+.tourism_container3{
+    margin-left: 1rem;
+    display: flex;
+}
+.line{
+    margin-top: 3rem;
+    border: dotted .9px gray;
+}
+.tourism_container4{
+    margin-left: 1rem;
+    margin-top: 4rem;
+    display: flex;   
+}
+.tourism_container4 img{
+    display: flex;
+    width: 360px;
+    border-radius: 10px;
+}
+.tourism_container5{
+    margin-left: 1rem;
+    display: flex;
+}
+.faq{
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 35rem;
+    font-size: 2rem;
+    font-family: serif sans-serif unset;
+}
+.line2{
+    margin-top: 6rem;
+    border: dotted .9px gray;
+}
+.irctc_faq{
+    margin-left: 1rem;
+    background-color: #6c757d;
+    max-width: 47.5%;
+    height: 19vh;
+    margin-top: 1rem;
+    border-radius: 10px;
+}
+.irctc_faq h2{
+    padding-top: .5rem;
+    font-size: 1rem;
+    text-decoration: underline;
+}
+.irctc_faq p{
+     max-width: 92.5%;
+    color: #fff;
+    margin-left: 1rem;
+}
+.irctc_faq2{
+    margin-left: 36rem;
+    margin-top: -8.8rem;
+    background-color: #6c757d;
+    max-width: 47.5%;
+    height: 19vh;
+    border-radius: 10px;
+}
+.irctc_faq2 h2{
+    padding-top: .5rem;
+    font-size: 1rem;
+    text-decoration: underline;
+}
+.irctc_faq2 p{
+    max-width: 92.5%;
+    color: #fff;
+    margin-left: 1rem;
+}
+.form_Container{
+    background-color: #e6e5e5;
+    height: 53vh;
+}
+.contact_us{
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 13rem;
+    width: 73%;
+    height: 45vh;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 20px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.contact_us h4{
+    text-align: center;
+    margin-top: 2rem;
+}
+.contact_us p{
+    text-align: center;
+    margin-top: -.5rem;
+    font-size: .7rem;
+    font-family: plain;
+}
+.contact_us_form{
+    margin-left: 1.7rem;
+}
+.contact_us_form input{
+    height: 5vh;
+    width: 46.5%;
+    border-radius: 5px ;
+    box-shadow: 0 1px f5f5f5;
+}
+.contact_us_form input:hover{
+    box-shadow: 0 1px gray;
+}
+.form_input{
+     margin-left: 2rem;
+}
+.form2{
+    margin-top: 1rem;
+}
+.contact_us_msg{
+    margin-top: 1rem;
+    margin-left: -.5rem;
+}
+.contact_us_msg textarea{
+    height: 8vh;
+    width: 93.5%;
+    border-radius: 5px ;
+    box-shadow: 0 1px f5f5f5;
+}
+.contact_us_button{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: .5rem;
+    margin-left: 31rem;
+    border-radius: 5px;
+    background-color: #ffc107;
+    padding: .2rem 1.4rem .2rem 1.4rem;
+}
+.contact_us_button:hover{
+     box-shadow: 2px 20px 20px 1px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.irctc_fotter{
+    height: 13vh;
+    background-color: ffff;
+}
+.irctc_fotter_container1{
+    position: absolute;
+    margin-top: 1.5rem;
+    margin-left: 13rem;
+    max-width: 17%;
+}
+small{
+    font-family: plain;
+    font-size: 80%;
+    font-weight: 400;
+}
+.irctc_fotter_container1 span{
+    color: #6610f2;
+    text-decoration: none;
+    font-weight: 600;
+}
+.irctc_social{
+    margin-top:1rem;
+    left: 36%; 
+    position: absolute;
+}
+.irctc_social a{
+    margin:0 10px;
+}
+.irctc_social p{
+    margin-top: 3.6rem;
+    margin-left: -20rem;
+}
+.irctc_fotter_img{
+    margin-left: 65%;
+    display: flex;
+    padding-top: 1.2rem;
+}
+.irctc_fotter_img img{
+    margin-left: .6rem;
+}
+.irctc_copyright_span2{
+    position: absolute;
+    margin-top: -2rem;
+    margin-left:81rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    font-family: plain;
+}
+.maharaja_copyright_span3{
+    position: absolute;
+    margin-top: -.5rem;
+    margin-left:85rem;
+    color: #17a2b8;;
+    font-size: 1rem;
+    font-weight: 200;
+    font-family: plain;
+}
+.maharaja_copyright_span3:hover{
+    color:red;
+    font-size: 1.5rem;
+    transition: color 0.9s;
+    cursor: pointer;
+}
+.maharaja_smile{
+   position: absolute;
+   font-size: 1.5rem;
+    margin-top: -.5rem;
+   margin-left: 1rem; 
+}
+.maharaja_span:hover{
+    cursor: pointer;
+}
+
+
+
+/*----------Gaurav_Bharat_Train-----------*/
+
+.bharat_gaurav_tourism_container{
+    margin-top: 1.5rem;
+    margin-left: 14rem;
+    max-width: 72%;
+    height: 170vh;
+    background-color: #f5f5f5;
+}
+.bharat_gaurav_tourism_container h2{
+   text-align: center;
+   padding-top: 1rem;
+}
+.bharat_gaurav_tourism_container a{
+    color: black;
+    text-decoration: none;
+}
+.bharat_gaurav_tourism_container a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.bharat_gaurav_tourism_container p{
+   text-align: justify !important;
+}
+.bharat_gaurav_img_container{
+    display: block;
+    background-color: #fff;
+    height: 43vh;
+    width: 47%;
+    border-radius: 8px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.bharat_gaurav_img_container_head{
+    height: 5vh;
+    background-color: #b3632b;
+    border-radius: 6px 6px 0 0;
+}
+.bharat_gaurav_img_container_head h6{
+    text-align: center;
+    padding-top: .5rem;
+}
+.bharat_gaurav_img_container_head h6 a{
+    color: #fff;
+    font-weight: 600;
+    font-family: elephant;
+    text-decoration: none;
+}
+.bharat_gaurav_img_container_head h6 a:hover{
+    color: #fff;
+    font-weight: 600;
+    font-family: plain;
+    text-decoration: underline;
+}
+.bharat_gaurav_img{
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    max-width: 45%;
+    height: 20.4vh;
+    border-radius: 6px;
+}
+.bharat_gaurav_img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+}
+.bharat_gaurav_img_container_head p{
+    padding-left: 50.4%;
+    margin-top: -9.5rem;
+    max-width: 97%;
+}
+.bharat_gaurav_tourism_container2{
+    margin-top: 1.5rem;
+    margin-left: 12rem;
+    max-width: 75.7%;
+    height: 200vh;
+    background-color: #f5f5f5;
+}
+.bharat_gaurav_img_container2{
+    margin-top: -19.8rem;
+    background-color: #fff;
+    margin-left: 36rem;
+    height: 43vh;
+    width: 47%;
+    border-radius: 8px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.container_margin{
+    margin-top: 2rem;
+}
+.container_margin2{
+    margin-top: -19.8rem;
+}
+.bottom-image_container{
+    margin-top: 5rem;
+    height: 43vh;
+    width: 97.4%;
+    background-color: yellow;
+    border-radius: 8px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.bottom-image_container img{
+    height: 43vh;
+    width: 100%;
+    border-radius: 8px;
+}
+
+
+
+/*------------Gaurav-bharat-Package----------------*/
+
+.tour_package_img{
+    margin-top: 1rem;
+    margin-left: .8rem;
+    width: 100%;
+    margin-top: 4rem;
+}
+.tour_package_img img{
+    width: 98%;
+    height: 30vh;
+}
+.tour_package_container{
+    display: flex;
+    margin-top: -180.5rem;
+    margin-left: 25%;
+    border: 3px solid #f5f5f5;
+    width: 73.8%;
+    height: 40vh;
+    border-radius: 8px;
+}
+.tour_package_container:hover{
+    border-radius: 8px;
+    box-shadow: 0 4px 5px 1px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.tour_package_container_left{
+    margin-top: 1rem;
+    max-width: 23%;
+    height: 396vh;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+.tour_package_container_left img{
+    margin-left: 1.6rem;
+    margin-right: 2.6rem;
+    height: 99vh;
+    width: 90%;
+}
+.tour_package_container_child{
+    width: 25.5%;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+.tour_package_container_child img{
+    width: 100%;
+    
+}
+.tour_package_container_details{
+    margin-top: 1rem;
+    margin-left: 1.2rem;
+    height: 37.8vh;
+    width: 58%;
+    position: relative;
+}
+.tour_package_container_details span{
+    margin-left: .1rem;
+}
+.tour_package_container_details_child{
+    height: 29vh;
+    width: 18.5rem;
+}
+.tour_package_container_details_child small{
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-family: plain;
+}
+.tour_package_container_details_child span{
+    color: #0d6efd;
+}
+.tour_package_container_details_child2{
+    margin-top: -13.2rem;
+    margin-left: 20.5rem;
+    height: 29vh;
+    width: 18.5rem;
+}
+.tour_package_container_details_child2 small{
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-family: plain;
+}
+.tour_package_container_details_child2 span{
+    color: #0d6efd;
+}
+.tour_package_container_right{
+    width: 15.3%;
+    background-color: #EDEADE;
+    border-radius: 0 10px 10px 0;
+}
+.tour_package_container_right_details{
+    margin-top: 5rem;
+    margin-left: 3rem;
+    max-width: 75.1px;
+}
+.tour_package_footer{
+    margin-top: 2rem;
+    height: 16vh;
+    width: 100%;
+    background-color: #FAA0A0;
+}
+.right_bt{
+  background-color: #FFa701;
+  margin-top: 1rem;
+  margin-left: 1.8rem;
+  color: #000000;
+  padding:  5px 20px 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.right_bt:hover{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: fantasy;
+    padding:  5px 25px 8px 35px;
+    box-shadow: 0 5px 20px 15px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.top{
+    margin-top: 2rem;
+}
+.gaurav_bharat_social_foot{
+    margin-top: 1.5rem;
+    height: 7rem;
+    background-color: #FAA0A0;
+}
+.ac_tourist_coach{
+    height: 10rem;
+}
+
+.IRCTC_top{
+    margin-top: -18rem;
+}
+/*---------------------------Deluxe AC Tourist Train Train--------------*/
+
+.ac_coach{
+    height: 31rem;
+}
+.ac_coach img{
+    height: 30rem;
+}
+.ac_coach_container{
+    margin-top: -31rem;
+}
+.ac_coach_top{
+    margin-top: 13rem;
+}
+
+
+/*-----ANTARA RIVER SUTRA CRUISE PACKAGE EX KOLKATA-----*/
+
+.antra_river-cruise{
+    margin-top: 1rem;
+    margin-left: 13rem;
+    height: 33.6vh;
+    width: 73%;
+    display: flex;
+    border-radius: 10px;
+    position: relative;
+    border: 3px solid #f5f5f5;
+}
+.antra_river-cruise_container1{
+    margin-top: .7rem;
+    margin-left:.7rem;
+    height: 30.5vh;
+    width: 25%;
+    background-color: white;
+}
+.antra_river-cruise_container1 img{
+    height: 30.5vh;
+    width: 100%;
+}
+.antra_river-cruise_container2{
+    margin-top: .7rem;
+    margin-left:2rem;
+    height: 30.5vh;
+    width: 50%;
+}
+.antra_river-cruise_right{
+    margin-left: 1rem;
+    height: 33.6vh;
+    width: 25%;
+    border-radius: 0 9px 9px 0;
+    background-color: #EDEADE;
+}
+.antra_river-cruise_right_child{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    max-width: 47%;
+    font-size: 1.5rem;
+}
+.cruish_Btn{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+}  
+.cruise_line{
+   border: dashed 2px gray;
+}
+.cruise_luxury{
+    position: absolute;
+    margin-top: 1rem;
+}
+.antra_river-cruise_container_child{
+    height: 90vh;
+    width: 72.7%;
+    margin-top: 4rem;
+    margin-left: 13rem;
+    border-radius: 4px;
+    border: 3.5px solid #f5f5f5;
+    background-color: #fff;
+}
+.antra_river-cruise_container_bottom{
+    margin-left: .6rem;
+    margin-top: .6rem;
+    height: 18vh;
+    width: 98.4%;
+    border: 3px solid #f5f5f5;
+}
+.antra_river-cruise_container_bottom hr{
+    margin-top: .5rem;
+    border: .3px solid #808080;
+}
+.cruise_link{
+    margin-left: .7rem;
+    margin-top: .5rem;
+    width: 98%;
+    height: 6vh;
+    text-align: center;
+    padding-top: .5rem;
+    background-color: #E5E4E2;
+    border: .3px solid #808080;
+}
+.cruise_link a{
+    font-weight: 600;
+    color: #1F51FF;
+    font-family: elephant;
+    text-decoration: none;
+}
+.cruise_link a:hover{
+    color: #1F51FF;
+    font-family: elephant;
+    text-decoration: underline;
+}
+.river_link{
+    margin-top: -.5rem;
+}
+.antra_river-cruise_container_bottom p{
+    margin-top: 2rem;
+}
+.antra_river-cruise_container_bottom small{
+    font-family: plain;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.antra_river-cruise_container_child2{
+    margin-top: 12rem;
+    margin-left: .8rem;
+    width: 97.5%;
+    height: 40vh;
+    background-color: #fff;
+    border: 2px solid #E5E4E2;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px 15px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.antra_river-cruise_container_child2 strong{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-family: Arial,Halvetica,sans-serif;
+    font-size: 14px;
+    color: #000000;
+    position: absolute;
+}
+.antra_river-cruise_container_child2 ul li{
+    font-family: Arial,Halvetica,sans-serif;
+    font-size: 14px;
+    color: #000000;
+}
+.cruise_container_child2_ul{
+    margin-top: 2.5rem;
+    margin-left: 2rem;
+}
+.cruise_ul{
+    margin-top: 3.2rem;
+}
+.cruise_fotter{
+    margin-top: 2rem;
+    height: 16vh;
+    background-color: #FAA0A0;
+}
+
+
+/*------------Railways-Alert------------*/
+
+.alert_box_Conatainer{
+    margin-left: 1rem;
+    max-width: 98%;
+    box-sizing: border-box;
+}
+.alert_Conatainer{
+    width: 100%;
+    height: 10vh;
+    background-color:  #E5E4E2;
+}
+.alert_Conatainer_box{
+    width: 18%;
+    height: 10vh;
+    margin-left: 40rem; 
+    font-size: 1.5rem;
+    background-color:  #0d6efd;
+    text-align: center;
+}
+.alert_Conatainer_box strong{
+    position: absolute;
+    padding-top: 1rem;
+    margin-left: -6rem; 
+    color: #fff;
+    font-size: 1.5rem;
+}
+.alert_box{
+    width: 100%;
+    height: 7vh;
+}
+.red_ul_li{
+    padding-top: .8rem; 
+    color: #616060; 
+}
+.alert_box b{
+    color: #FF0000;
+}
+.alert_box2{
+    width: 100%;
+    height: 14vh;
+    background: #E5E4E2;
+}
+.black_ul_li{
+    padding-top: 1rem; 
+    color:  #616060; 
+}
+.alert_box2 b{
+    font-family: plain;
+    color: #000;
+}
+.alert_box3{
+    width: 100%;
+    height: 14vh;
+    background: #fff;
+}
+.alert_box3_b{
+    color: #00008B;
+}
+.blue_ul_li{
+    padding-top: 1rem; 
+    color:  #616060; 
+}
+
+.alert_box4{
+    width: 100%;
+    height: 7vh;
+    background: #E5E4E2;
+}
+.alert_box4 b{
+    color: #FF0000;
+}
+.alert_box5{
+    width: 100%;
+    height: 7vh;
+}
+.alert_box5 a{
+    color: #00008B;;
+    text-decoration: none;
+}
+.alert_box5 a:hover{
+    text-decoration: underline;
+}
+.black-box{
+    font-family: plain;
+    color: #28282B;
+}
+.alert_box6{
+    width: 100%;
+    height: 7vh;
+    background: #E5E4E2;
+}
+.alert_box7{
+    width: 100%;
+    height: 7vh;
+    background: #fff;
+}
+.alert_box7 ul li b strong{
+    font-weight: 600;
+    color: #000;
+}
+.alert_box8{
+    width: 100%;
+    height: 9vh;
+    background: #E5E4E2;
+}
+.alert-background{
+    background: #E5E4E2;
+}
+.black-box a{
+    text-decoration: none;
+}
+.black-box a:hover{
+    text-decoration: underline;
+}
+
+/*-------------Android----------------*/
+
+
+.android_Container{
+    width: 100%;
+    height: 152.4vh;
+    position: absolute;
+    background-color: #6610f2;
+    box-sizing: border-box;
+}
+/*
+.android_Container i{
+    position: absolute;
+    margin-top:.3rem;
+    color: #626262;
+    margin-left: 83rem;  
+}
+.android_Container i a{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+*/
+.contact-box{
+   padding-left: 5rem;
+}
+.android_box{  
+    margin-top:.3rem;
+    margin-left: .4rem;
+    width: 99.2%;
+    height: auto;
+    background-color: #fff;
+    border-radius: 15px 15px 0 0;
+}
+.android_box img{
+    margin-top: .3rem;
+    margin-left: .3rem;
+    width:30%;
+    height: auto;
+    margin-right: 1rem;
+}
+.android_box_container{ 
+    margin-left: .4rem;
+    margin-top: 1.6rem;
+    width: 99.2%;
+    height: auto;
+    background-color: #fff;
+    border-radius: 0 0 15px 15px;
+    position: absolute;
+}
+.android_box_container_child{
+	margin: auto;
+    margin-top: 1.8rem;
+    height: auto;
+    width: 36.6%;
+    border: 1px solid #72e4fe;
+    background: url(../android_Image/bg.jpg);
+}
+.android_box_container_child img{
+    max-width: 100%;
+}
+.goolelink{
+	margin-left: 2rem;
+	width: 30%;
+	margin-top:-50%;
+}
+.irctcApps{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	height: auto;
+}
+.android_box_container_subchild{
+	width: 63%;
+	height: auto;
+}
+.android_box_container_subchild ul{
+    color: #1b5ea1;
+    list-style: square;
+}
+.android_box_container_subchild ul li small{
+    color: #333;
+    font-family: arial;
+    font-weight: bold;  
+    font-size: 15px;
+}
+.feature_tr{
+    width: 25.2%;
+    height: auto;
+    text-align: center;
+}
+.feature_tr p{
+    font: 13px arial;
+}
+.android_child{
+    border-radius: 5px;
+    text-align: center;
+    color: #fff;
+    margin: auto;
+    padding: 5px 0 5px 0;
+    width: 86%;
+    height: auto;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 12px;
+    background-color: #1b5ea1;
+}
+.android_fotter{
+    margin-top: 4.4rem;
+    height: 13vh;
+    border-radius: 0 0 20px  20px;
+}
+.android_fotter_border{
+   width: 98%;
+   margin: auto;
+   border-top: #cecfce 1px solid;
+   margin-right: 16px;
+}
+.android_fotter_logo{
+    margin-top: 7px;
+    width: 60%;
+    float: left;
+    border-top: #000 0px solid;
+    border-right: #cecfce 1px solid;
+}
+.android_fotter_logo ul li{
+    display: inline;
+    float: left;
+    margin: auto;
+    padding: 0;
+}
+.android_fotter_list{
+   float: center;
+    margin-left: 15%;
+}
+.android_fotter_link{
+    text-align: center;  
+    margin-top: 2px;
+    width: 35%;
+    font: 15px arial;
+    float: right;
+    color: #666;
+    padding-top: 10px;
+    height: auto;
+    border: #0000 0px solid;
+}
+.android_fotter_link span{
+    font-size: 1rem;
+    padding-left: 11rem;
+    margin-top: .6rem;
+    color: #FFBF00;
+}
+.android_fotter_link span:hover{
+     color:#FF3131;
+     font-weight: 600;
+     font-family: elephant;
+     transition: color 0.9s;
+     cursor: pointer;
+}
+
+/*-------Railway-Enquiry___________*/
+
+.enquiry_body{
+    width: 100%;
+    height: 100%;
+    background-color: #6610f2; 
+}
+.home_container_links{
+	width: 100%;
+    height: auto;
+}
+.home_container_links i{
+	float:right;
+	margin-right: 1rem;
+    margin-top:.3rem;
+    color: #626262;
+}
+.home_container_links a{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+.home_container_links span{
+    float: right;
+    margin-right: 1.4rem;
+    margin-top: .3rem;
+}
+.enquiry{
+    position:  absolute;
+    margin-top: -.1rem;
+    height: 69vh;
+}
+.enquiry h2{
+    margin-top: -.0rem;
+    padding-left: 3rem;
+    font-size: 1.2rem;
+}
+.enquiry ul{
+    margin-top: -.0rem;
+    margin-left: 3rem;
+    
+}
+.enquiry u{
+    font-weight: 600;
+}
+.enquiry_fotter{
+    margin-top: -.2rem;
+}
+.enquiry_li{
+    list-style: none;
+    margin-left: -.9rem;
+}
+.li_head{
+   text-decoration: underline;
+   list-style:none;
+   font-weight: 700;
+}
+/*----------CONTACT US------------*/
+
+
+
+.contact_uss{
+    display: block;
+    border: 3px solid #FECE6E;
+    width: 445px;
+    margin: 5px;
+}
+.contact_p{
+    display: block;
+    font: bold 14px calibri, arial;
+    color: #000;
+    padding-left: 9px;
+    height: 25px;
+    background-color: #FECE6E;
+}
+.contactUs_container{
+    font: 11px arial;
+    color: #333;
+    width: 89%;
+    margin-top: 15px;
+    text-align: justify;
+    margin-left: .4rem;
+}
+p{
+    margin: 0;
+    padding: 2px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+b{
+    font-weight: bold;
+}
+
+
+/*----------chat_bot-------------*/
+
+.chat_bot{
+    max-width: 1140px;
+    color: #140600;
+    padding: 60px 0px;
+    margin: 0px auto;
+    text-align: left;
+}
+.chat_bot h1{
+    font-size: 4rem;
+}
+.chat_bot_container{
+    width: 100%;
+    background-image: url(../chat_bot/bg_banner.jpg);
+    height: 77vh;
+}
+.chat_bot_container img{
+    margin-top: 2rem;
+    width: 30%;
+    height: 60vh;
+    margin-left: 55rem;
+}
+.chat_bot_container_data{
+    position: absolute;
+    margin-top: -32rem;
+    margin-left: 13rem;
+    width: 600px;
+    height: 60vh;
+}
+.chat_bot_container_data h1{
+    margin-top: 1rem;
+    font-family: Poppins, sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1.3em;
+    color: #007cba;
+}
+.chat_bot_container_data h2{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+.chat_bot_box{
+    width: 100%;
+    background-color: #007cba;
+    height: 30vh;
+}
+.chat_bot_box p{
+    position: absolute;
+    margin-top: 5rem;
+    text-align: center;
+    color: #fff;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    padding-left: 12.5rem;
+    padding-right: 10rem;
+    font-size: .9rem;
+}
+.chat_bot_box_container{
+    position: absolute;
+    width: 100%;
+    height: 130vh;
+    text-align: center;
+    padding-left: 12.5rem;
+    padding-right: 10rem;
+    display: block;
+    background-color: #fff;
+}
+.chat_bot_box_container h3{
+    margin-top: 9rem;
+    color: #007cba;
+}
+.chat_bot_box_container_child{
+    margin-top: 5rem;
+    height: 74vh;
+    width: 97%;
+    display: flex;
+    background-color: #fff;
+}
+.child_details{
+    height: 74vh;
+    width: 32%;
+    background-color: #fff;
+}
+.child_details figure{
+   padding-left: 16rem;
+}
+.child_details figure strong{
+    position: absolute;
+    padding-top: 2rem;
+    margin-left: -7rem;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #000000;
+    font-size: 22px;
+}
+.IVR{
+    padding-left: 1.5rem;
+}
+.child_details p{
+    color: #A0A6AD;
+    margin-left: 0rem;
+    max-width: 250px;
+    margin-top: -2rem;
+    font-size: 14px;
+    font-weight: 600;
+}
+.child_details_box{
+    height: 74vh;
+    width: 37%;
+    background-color: #fff;
+}
+.child_details_box img{
+    margin-top: 6rem;
+    height: 19rem;
+    width: 19rem;
+}
+
+.child_details_container{
+    height: 74vh;
+    width: 32%;
+    background-color: #fff;
+}
+.child_details_container figure{
+   margin-left: -17rem;
+}
+.child_details_container figure strong{
+    position: absolute;
+    padding-top: 1rem;
+    margin-left: 1rem;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #000000;
+    font-size: 22px;
+}
+.child_details_container_fig_img{
+    padding-left: .6rem;
+}
+.IVR{
+    padding-left: 1.5rem;
+}
+.child_details_container p{
+    color: #A0A6AD;
+    margin-left: 6rem;
+    max-width: 250px;
+    margin-top: -3rem;
+    font-size: 14px;
+    font-weight: 600;
+}
+.chatboot_welcome{
+    height: 47vh;
+    background-color: #5c5c5c;
+    position: relative;
+    margin-top: 50rem;
+    display: flex;
+}
+.chatboot_welcome_child{
+    height: 30vh;
+    width: 25rem;
+    position: relative;
+    margin-top: 5rem;
+    margin-left: 20rem;
+}
+.welcome_child_container{
+    height: 30vh;
+    width: 35rem;
+    position: relative;
+    margin-top: 5rem;
+    margin-left: 7rem;
+}
+.welcome_child_container h1{
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #D6D3D3;
+    font-size: 35px;
+    font-weight: 600;
+}
+.welcome_child_container p{
+    text-align: left;
+    color: #FFFFFF;
+    font-size: 25px;
+    line-height: 30px;
+    
+}
+.welcome_child_container p b{
+    font-weight: 700;
+}
+
+/*-----------Contact-US2------------------*/
+
+.contact_body{
+   background-image: url(../images/home_page_banner.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 167%;
+}
+.contact_container{
+    position: relative;
+    width: 50%;
+    height: auto;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    background-color: #fff;
+    display: block;
+    border: 3px solid whitesmoke;
+}
+.contact-box{
+   color: #fff;
+   font-size: 1.2rem;
+   font-weight: 700;
+   font-family: plain,calibri, arial;
+   display: block;
+   padding-left: 9px;
+   height: 25px;
+   background-color: #113d77;
+}
+.contact_container p{
+    margin-left: .7rem;
+    width: 95%;
+}
+.contact_container span{
+    margin-left: .7rem;
+}
+.contact_container a{
+    text-decoration: none;
+}
+.contact_container a:hover{
+    text-decoration: underline;
+    color: #007bff;
+}
+
+/*-----------MEAL------------------*/
+
+.meal{
+    width: 100%;
+    height: 11vh;
+    display: flex;
+    position: fixed;
+    background-color: blue;
+}
+.meal_logo_left{
+    width: 33.3%;
+    height: 11vh;
+    background-color: #fff;
+}
+.meal_logo_left img{
+    margin-top: .7rem;
+}
+.meal_logo_center{
+    width: 33.4%;
+    height: 11h;
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+}
+.meal_logo_center img{
+    margin-top: .4rem;
+    height: 9vh;
+    margin-left: 1rem;
+}
+.meal_logo_right{
+    width: 33.3%;
+    height: 11vh;
+    display: flex;
+    justify-content: right;
+    background-color: #fff; 
+    position: relative;
+}
+.meal_logo_right img{
+   height: 7vh;
+   margin-top: .3rem;
+}
+.meal_logo_right span{
+    margin-top: 3.5rem;
+    margin-left: -4rem;
+    font-weight: 300;
+    color: #6c757d;
+}
+.meal_logo_right a{
+   margin-top: 2rem;
+   font-size: 1.2rem;
+   margin-left: 2rem;
+   text-decoration: none;
+   color: #6c757d;
+}
+.meal_logo_right a:hover{
+    color: #6c757d;
+}
+.banner_meal_bg{
+    width:100%;
+    height:57vh;
+    background:url(../meal-images/slider.jpg) no-repeat center;
+}
+.train_meal{
+    width: 100%;
+    height: 16vh;
+    display: flex;
+    background-color: #fff;
+}
+.train_meal strong{
+    font-size: 1.2rem;
+    color: #fff;
+    margin-top: 3rem;
+    margin-left: 7rem;
+}
+.train_meal_left{
+    width: 33%;
+    height: 16vh;
+    display: flex;
+    background: #85c954 url(../meal-images/standrdmenu.png) no-repeat left;
+}
+.train_meal_center{
+    width: 33.4%;
+    height: 16vh;
+    margin-left: .1rem;
+    display: flex;
+    background: #6aaf39 url(../meal-images/rajmenu.png) no-repeat left;
+}
+.train_meal_right{
+    width: 33.4%;
+    height: 16vh;
+    margin-left: .1rem;
+    display: flex;
+    background: #76c141 url(../meal-images/rajmenu.png) no-repeat left;
+}
+.train_meal_container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-color: #fff;
+}
+.train_meal_container-box{
+    width: 33.2%;
+    height: 100vh;
+    flex-direction: column;
+    background-color: #fff;
+}
+.train_meal_container-box-child{
+    margin-top: .1rem;
+    width: 100%;
+    height: 25vh;
+    background: #eeeeee url(../meal-images/bev.png) no-repeat left;
+}
+.strong_menu{
+	position: absolute;
+    margin-top: 5rem;
+    margin-left: 6rem;
+    color: #333;
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+}
+.child_height{
+    height: 24vh;
+    background: #eeeeee url(../meal-images/alcarte.png) no-repeat left;
+}
+.child_height a{
+    text-decoration: none;
+    color: #333;
+}
+.child_height a:hover{
+    text-decoration: none;
+    color: #333;
+}
+.breakfast{
+    background: #eeeeee url(../meal-images/bref.png) no-repeat left;
+}
+.snaks{
+    background: #eeeeee url(../meal-images/meal.png) no-repeat left;
+}
+.snaks small{
+    position: absolute;
+    margin-top: 3rem;
+    margin-left: 6rem;
+    color: #333;
+    font-weight: 700;
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+}
+.train_meal_container-child{
+    width: 33.2%;
+    height: 100vh;
+    margin-left: .2rem;
+    background-color: #fff;
+}
+.train_meal_container-child_subchild{
+    cursor: pointer;
+    width: 100%;
+    height: 25vh;
+    float: left;
+    margin-top: .1rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #333;
+    background: #d5edc5  url(../meal-images/ac1.png) no-repeat left;
+    display: flex;
+}
+.train_meal_container-child_subchild strong{
+    margin-top: 1rem;
+}
+.train_meal_container-child_subchild-box{
+    width: 26%;
+    height: 19vh;
+    margin-top: 2.5rem;
+    margin-left: 6.4rem;
+    display: flex;
+    flex-direction: column;
+}
+.train-meal-boxs a{
+    text-decoration: none;
+    color:#333;
+}
+.train-meal-boxs span{
+    margin-top: 1rem;
+}
+.train_meal_container-child_subchild-boxs{
+    width: 26%;
+    height: 19vh;
+    margin-top: 2.5rem;
+    display: flex;
+    flex-direction: column;
+}
+.train_meal_container-child_subchild-boxes{
+    width: 26%;
+    height: 19vh;
+    margin-top: 2.5rem;
+    display: flex;
+    flex-direction: column;
+}
+.subchild_height{
+    height: 24vh;
+    background: #d5edc5 url(../meal-images/raj3.png) no-repeat left;
+}
+.subchild_height strong{
+   margin-top: 4.3rem;
+}
+.train_meal_container-boxen{
+    width: 33.2%;
+    height: 100vh;
+    margin-left: .2rem;
+    background-color: #fff;
+}
+.boxen_bg{
+    background: #e6f7db url(../meal-images/ac1.png) no-repeat left;
+}
+.boxen_bg span{
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 13rem;
+    color: #333;
+    font-weight: 700;
+    font-size: .8rem;
+    font-family: 'Roboto', sans-serif;
+}
+.boxen_height{
+    height: 49vh;
+    background:  #e6f7db url(../meal-images/ac1.png) no-repeat left;
+}
+.boxen_height strong{
+    margin-top: 11rem;
+
+}
+.boxen_height span{
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 17rem;
+    color: #333;
+    font-weight: 700;
+    font-size: .8rem;
+    font-family: 'Roboto', sans-serif;
+}
+.boxen_height a{
+    text-decoration: none;
+    color: #333;
+}
+.boxen_height a:hover{
+    text-decoration: none;
+    color: #333;
+}
+.meal_charge{
+    width: 100%;
+    height: 6vh;
+    text-align: center;
+    display: block;
+    background-color: #a3e872;
+    padding: 15px 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: .9rem;
+    margin-top: 10px;
+}
+.meal_charge a{
+    text-decoration: none;
+    color: #FF0000;
+    font-weight: 700;
+    position: absolute;
+}
+.meal_footer{
+    width: 100%;
+    height: 13vh;
+    text-align: center;
+    display:block;
+    background-color: #eeeeee;
+    padding: 30px 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    margin-top: 10px;
+}
+.meal_footer span{
+    font-size: 1.1rem;
+    color: #6aaf39;
+} 
+.meal_footer small{
+    font-size: 1.1rem;
+    color: #ff0000;
+    margin-left:13rem; 
+    font-family: fantasy; 
+    font-weight: 600; 
+}
+.meal_footer small:hover{
+    color: #0000ff;
+    font-size: 1.1rem;
+    transition: color 0.9s;
+    cursor: pointer;  
+    font-weight: 600;
+    font-family: elephant;
+}
+
+
+
+/*----------------CANCLE-TICKET-------------*/
+
+
+.cancle_box{
+	display flex;
+	height: auto;
+	align-items: center;
+	text-align: center;
+}
+.tops{
+    margin-top: -.4rem;
+    display: flex;
+    /* height: 160vh;*/
+    height: auto;
+    width: 99.2%;
+    background-color: #fff;
+    border-radius: 0 0 15px 15px;
+    position: relative;
+    box-sizing: border-box;
+}
+.ticket-container{
+    width: 20%;
+    /*height: 71vh;*/
+    height: 71vh;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: .4rem;
+}
+.ticket-boreder{
+    border-radius: .5rem;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(168, 168, 168);
+}
+.ticket-container-para{
+    text-align: center;
+    padding: 10px 4px 8px 10px;
+    max-width: 98%;
+    border-radius: .5rem;
+    font-weight: 600;
+    margin-left: .2rem;
+    margin-top: .3rem;
+    color: #000000;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #939393;
+    background: #dcdcdc;
+}
+.ticket-container img{
+    width: 100%;
+   /*height: 60vh;*/
+    height: 60vh;
+}
+.Counter_Ticket_Cancellation{
+    width: 39.5%;
+   /* height: 105vh;*/
+     height: auto;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: .4rem;
+}
+.Counter_Ticket_Cancellation_ul{
+    color: #7a7a7a;
+    max-width: 97%;
+    font-family: Arial, sans-serif;
+    font-weight: 500;
+    list-style-type: number; 
+}
+.Counter_Ticket_Cancellation ul strong{
+    color: #494949;
+}
+.Counter_Ticket_Cancellation_Rules{
+    width: 38.4%;
+    /*height: 143vh;*/
+    height: auto;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: .4rem;
+}
+.Counter_Ticket_Cancellation_Rules ul strong{
+    color: #494949;
+}
+.Counter_Ticket_Cancellation_Rules_para{
+    margin-left: 1rem;
+    color: #7a7a7a; 
+    font-family: Arial, sans-serif;
+    font-weight: 500;
+}
+.ticket-cancle-ft{
+    margin-top: 0rem;
+}
+.ticket-cancle-ft-links{
+    margin: auto;
+    color: pink;
+}
+.ticket_fotter_border{
+   width: 98%;
+  
+   border-top: #cecfce 1px solid;
+   margin-right: 16px;
+}
+/*--------------BUS-------------------*/
+
+.bus{
+    width: 100%;
+    height: 9.7vh;
+    display: flex;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+.bus_header{
+    width: 25%;
+    height: 9.7vh;
+    background-color: #f5f5f5;
+    display: block;
+}
+.bus_header img{
+    margin-top: .4rem;
+    margin-left: 2rem;
+    width: 34%;
+    height: 7vh;
+}
+.bus_header_center{
+    width: 50%;
+    height: 9.7vh;
+    background-color: #f5f5f5;
+}
+.bus_header_center img{
+    margin-top: .5rem;
+    margin-left: 1.5rem;
+    width: 10%;
+    height: 7vh;
+}
+.bus_header_right{
+    width: 25%;
+    height: 9.7vh;
+    background-color: #f5f5f5;
+}
+.bus_header_right img{
+    float: right;
+    height: 7vh;
+    margin-top: .4rem;
+    margin-right: 3rem;
+}
+.bus_header_right_child{
+    width: 29%;
+    height: 3vh;
+    float: right;
+    margin-top: 1.5rem;
+    background-color: #f5f5f5;
+    margin-right: 2.5rem;
+    position: relative;
+}
+.bus_header_right_child p{
+    margin-top: -.3rem;
+    font-family: Arial, sans-serif;
+    color: #939393;
+    font-size: 1.3rem;  
+    cursor: pointer;
+}
+.bus_header_right_contact{
+    width: 170%;
+    height: 10vh;
+    visibility: hidden;
+    background-color: #fff;
+    float: right;
+    margin-top: -1.4rem;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #939393;
+    flex-wrap: wrap;
+    display: inline-block;
+
+}
+.bus_header_right_contact i{
+    color: #000;
+}
+.bus_header_right_contact a{
+    position: absolute;
+    margin-top: .5rem;
+    text-decoration: none;
+    color: #939393;
+    margin-left: .4rem;
+}
+.bus_header_right_child:hover .bus_header_right_contact{
+    visibility: visible;
+}
+.bus-banner{
+    width: 100%;
+    height: 54vh;
+    background: url(../sbi/Bus_Banner.jpg) no-repeat;
+    background-size: 100%;
+    display: block;  
+}
+.bus-banner-child{
+    position: absolute;
+    width: 100%;
+    height: 8vh;
+    margin-top: 18.6rem;
+}
+.bus-banner-childs_box{
+    width: 100%;
+    height: 13vh;
+    background: url(../sbi/banner_bg2.png) no-repeat;
+    position: relative;
+    /*margin-top: 31rem;*/
+    background-size: 100% 100%;
+}
+
+.bus-card-left-child{
+    margin: 14% 0 0 5%;
+    width: 89%;
+    height: 32vh;
+    background: url(../Tourism_images/north_india_package.jpg)no-repeat;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px 15px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.bus-card-center-child{
+    margin: 14% 0  0 7%;
+    width: 89%;
+    height: 32vh;
+    background: url(../Tourism_images/west_indiaPackage.jpg)no-repeat;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px 15px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.bus-card-right-child{
+    margin: 14% 0 0 7%;
+    width: 89%;
+    height: 32vh;
+    background: url(../Tourism_images/triputi_package.jpg)no-repeat;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px 15px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.bus-container{
+    width: 100%;
+    height: 40vh;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+.bus-container h2{
+    padding-top: 4rem;
+    font-size: 2.5rem;
+    font-family: lucida calligraphy;
+}
+.blink {
+        animation: blinker .1s linear infinite;
+        color: #0047AB;    
+}
+@keyframes blinker {
+     50% {
+        opacity: 0;
+}
+}
+/*-------------FLIGHT------------*/
+.flight{
+    width: 100%;
+    height: 9.7vh;
+    display: flex;
+    background-color: red;
+}
+.flight_header{
+    width: 35%;
+    height: 9.7vh;
+    background-color: #f5f5f5;
+}
+.flight_header img{
+    margin-top: .4rem;
+    margin-left: 1rem;
+    width: 90%;
+    height: 8vh;
+}
+.flight-header_center{
+    width: 35%;
+    height: 9.7vh;
+    text-align: center;
+    background-color: #f5f5f5;  
+}
+.flight-header_center img{
+    margin-top: .3rem;
+    width: 15%;
+    height: 8vh;
+}
+.flight_header_right{
+    width: 30%;
+    height: 9.7vh;
+    background-color: #f5f5f5;
+}
+.flight_header_right img{
+    float: right;
+    height: 7vh;
+    margin-top: .4rem;
+    margin-right: 3rem;
+}
+.flight-banner{
+    width: 100%;
+    height: 30vh;
+    background: red;
+    background-size: 100%;
+    display: block; 
+}
+.flight-banner img{
+    width: 100%;
+    height: 100%
+}
+.flight-banner-child{
+    width: 100%;
+    height: 15vh;background-color: red;
+    visibility: visible;
+    position: relative;
+    background: url(../sbi/runway.png) no-repeat;
+    background-size: 100% 100%;
+}
+.flight-banner-child img{
+    margin-top: -3rem;
+}
+.flight-banner-childs_box{
+    width: 100%;
+    height: 15vh;
+    background: url(../sbi/runway2.png) no-repeat;
+    position: relative;
+    /*margin-top: 31rem;*/
+    background-size: 100% 100%;
+}
+.flight-banner-childs_box img{
+    margin-top: -3rem;
+}
+.flight_card_container{
+    width: 80%;
+    height: 50vh;
+    background-color: red;
+    position:relative;
+    margin-left: 10%;
+    display: flex;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px 15px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.flight_card_left{
+    width: 33.4%;
+    height: 50vh;
+    background-color: #f5f5f5;
+}
+.flight-card-left-child{
+    margin: 5% 5% 5% 5%;
+    width: 90%;
+    height: 45vh;
+    background: url(../sbi/home-1.gif);
+    border-radius: 5px;
+    box-shadow: 0 5px 20px 15px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.flight_card_center{
+    width: 33.3%;
+    height: 50vh;
+    background-color: #f5f5f5;
+}
+.flight-card-center-child{
+    margin: 5% 5% 5% 5%;
+    width: 90%;
+    height: 45vh;
+    background: url(../sbi/home-2.gif) no-repeat;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px 15px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.flight_card_right{
+    width: 33.3%;
+    height: 50vh;
+    background-color: #f5f5f5;
+}
+.flight-card-right-child{
+    margin: 5% 5% 5% 5%;
+    width: 90%;
+    height: 45vh;
+    background: url(../sbi/home-3.gif);
+    border-radius: 5px;
+    box-shadow: 0 5px 20px 15px rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.flight_details{
+    width: 100%;
+    display: flex;
+    height: auto;
+    background: url(../sbi/app-download-bg.jpg) no-repeat #4c58c6;;
+}
+.flight_details_container{
+    width: 30%;
+    height: 24vh;
+    margin-left: 15rem;
+    margin-top: 4rem;
+    color: #fff;
+}
+.flight_details_container strong{
+    font-size: 2.4rem;
+    font-family: Roboto Black;
+}
+.flight_details_container span{
+    padding-top: 2rem;
+    margin-left: 2rem;
+    font-size: 1.1rem;
+    font-family: lucida serif sans-serif;
+}
+.flight_button{
+    width: 50%;
+    height: auto;
+    margin-left: 7rem;
+    margin-top: 2rem;
+    display: flex;
+}
+.flight_button a{
+    width: 100%;
+    height: 5vh;
+    background: url(../sbi/google-play.png) no-repeat;
+}
+.appstore{
+    width: 100%;
+    height: 5vh;
+    background: url(../sbi/app-store.png) no-repeat;
+}
+.flight_details_box{
+    width: 17%;
+    height: 47vh;
+    margin-top: -2rem;
+    background: url(../sbi/irctc-app-phone.jpg) no-repeat;
+}
+.flight_details_child{
+    width: 8.5%;
+    height: 17vh;
+    margin-top: 4rem;
+    margin-left: 5rem;
+    background: url(../sbi/flight_qr.png) no-repeat;
+}
+.flight_details_boxes{
+    width: 8%;
+    height: 5.5vh;
+    margin-top: 12rem;
+    margin-left: -7.5rem;
+    color: #fff;
+    font-size: .9rem;
+    font-weight: 600;
+}
+.flight_app{
+    margin-top: .1rem;
+}
+/*--------------HOTELS-------------------*/
+
+
+.hotel_header{
+    width: 35%;
+    height: 9.7vh;
+    background-color: #f5f5f5;
+}
+.hotel_header img{
+    margin-top: .4rem;
+    margin-left: 7rem;
+    width: 30%;
+    height: 8vh;
+}
+.hotel_container{
+    width: 100%;   
+    display: flex;
+    flex-wrap: wrap;
+    background-position: 200% 200%;
+    background: url(../sbi/headerImage.png)80% 40px no-repeat #f2f8fc;
+    min-height: 550px;
+    height: inherit;
+}
+.hotel_container_child{
+    width: 28%;
+    height: 40vh;
+    margin-top: 4%;
+    margin-left: 7rem;
+}
+.hotel_container h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #0d82e1;
+    font-family: 'Roboto Black',sans-serif;
+}
+.hotel_container h2{
+    font-size: 26px;
+    color: #e99b33;
+    font-family: 'Roboto Regular',sans-serif;
+    margin-top: -1.5rem;
+    margin-bottom: 10px;
+}
+.hotel_container p{
+    font-size: 17px;
+    color: #4f4f4f;
+    line-height: 25px;
+    text-align: justify;
+    margin-top: -.2rem;
+}
+.hotel_form_container{
+    width: 85%;
+    height: 20vh;
+    margin-top: -4rem;
+    margin-left: 7rem;
+    border-radius: 10px;
+    background-color: #fff;
+    display: flex;
+    color: #002248;
+    box-shadow: 0 1px 8px 1px rgba(190,190,190,.75);
+}
+.hotel_form_container form{
+    display: flex;
+    width: 100%;
+}
+.hotel_form_container i{
+    margin-left: 1rem;
+    margin-left: 1rem;
+    margin-top: 1.4rem;
+    font-weight: 900;
+    font-family: 'Roboto Regular',sans-serif;
+    margin-right: 10px;
+}
+.hotel_name{
+    width: 34%;
+    height: 18vh;
+    box-sizing: border-box;
+    margin-top: .5rem;
+    position: relative;
+}
+.hotel_label{
+    font-size: 1.5rem;
+}
+.hotel_input{
+    width: 90%;
+    height: 5vh;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color: #495057;
+    font-size: 1.5rem;
+    border-radius: 0.25rem;
+    border-color: #ced4da;
+}
+.hotel_input:hover{
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem rgba(0,123,255,.25);
+}
+.check_in{
+    width: 22%;
+    height: 18vh;
+    display: block;
+    margin-top: .5rem;
+}
+.check_out{
+    width: 22%;
+    height: 18vh;
+    display: block;
+    margin-top: .5rem;
+}
+.hotel_room{
+    width: 22%;
+    height: 18vh;
+    display: block;
+    margin-top: .5rem;
+}
+.hotel_button{
+    margin-top: 7.6rem;
+    margin-left: -45rem;
+}
+.hotel_button input{
+    width: 150px;
+    background: #1893f8;
+    color: #fff;
+    font-size: 18px;
+    border: 0;
+    text-align: center;
+    padding: 12px 7px 9px 12px;
+    border-radius: 30px;
+    display: inline-block;
+}
+.hotel_fotter{
+    margin-top: 5rem;
+}
+
+
+
+/*---------------USER-REGISTRATION--------------------------*/
+
+
+.registeration-body{
+    background-color: #f2f8fc;
+}
+/*
+.registeration-form{
+    top: 20%;
+    left: 50%;
+    font-family: 'Roboto Regular',sans-serif;
+    border-radius: 10px;
+    transform: translate(-50%,-50%);
+}*/
+.registeration-container{
+    margin-top: 5rem;
+    width: 56.5%;
+    height:6vh;
+    margin-left:20.7rem;
+    border-radius:10px;
+    display:flex;
+}
+.registeration-container h1{
+    font-size: 2rem;
+    color: #000;
+    font-weight: 700;
+}
+.registeration-container a{
+   color:  #FFA500;
+   font-weight: 700;
+   text-transform: uppercase;
+   margin-left: 28rem;
+   margin-top: .5rem;
+   font-size: 1.2rem;
+}
+.registeration-container a:hover{
+    color:  #FFA500;
+}
+.row input{
+    font-weight: 700;
+} 
+.row select{
+   font-weight: 700;
+}
+.row option{
+    text-transform: uppercase;
+}
+.ragistration-captcha{
+    width: 41.5%;
+    height: 30vh;
+    background: url(../register/capcha.jpeg);
+}
+
+.ragistration-captcha img{
+    height: 5vh;
+    margin-top: 13.7rem;
+    margin-left: 19.2rem;
+}
+.form-group h4{
+	margin-top:.7rem;
+	font-family: fantasy;
+	font-size: 1rem;
+}
+.form-check-label a {
+    color: #0000FF;
+    font-size: 1rem;
+    position: absolute;
+    margin-top:-2rem;
+    margin-left:-39rem;
+    text-decoration: none;
+}
+.form-check-label a:hover {
+    color: #0000FF;
+    text-decoration: underline;
+}
+.invalid-feedback{
+    font-size: 4rem;
+    color:  #FFA500;
+    font-weight: 700;
+}
+.register-button{
+    background-color: #FF5F1F;
+    float: right;
+    color: #fff;
+    font-weight: 700;
+    border-color: #FF5F1F;
+    border-radius: 9px;
+    padding: 5px 25px 10px 25px;
+}
+.register-button:hover{
+    background-color: #FF5F1F;
+    font-weight: 700;
+    border-color: #FF5F1F;
+    border-radius: 9px;
+}
+.register{
+	margin-top:10rem;
+    width: 100%;
+    height: auto;
+}
+
+/*------------OTP-USER-REGISTRATION-------------------*/
+
+.otp-form{
+	padding-top: 10rem;
+}
+.text-center h2{
+	font-family: fantasy;
+	color: blue;
+	font-weight: 600;
+	font-size: 4rem;
+}
+.para{
+	font-family: elephant;
+	color: #FF0000;
+	font-size: 1.7rem;
+	font-weight: 600;
+}
+/*-----------LOGIN---------------------*/
+
+
+
+.login_box{
+    position: relative;
+    text-transform: uppercase;
+    margin-left:44rem;
+    max-width:7.6%;
+    margin-top: 1rem;
+}
+.login_box h1{
+	color: #191970;
+    border-bottom: #191970 3px solid;
+}
+.forgot-acc{
+	position: absolute;
+	margin-top: .4rem;
+	color: #1457a7;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.login_container{
+	margin-top: 1rem
+}
+.login-captcha{
+	margin-top: 1rem;
+    width: 100%;
+    height: 40vh;
+    background: url(../register/captcha.gif) no-repeat;
+}
+.login-captcha img{
+	position: absolute;
+    height: 4.8vh;
+    margin-top: 18.3rem;
+    margin-left: 22.4rem;
+}
+.login-button{
+    background-color: #FF5F1F;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    border-color: #FF5F1F;
+    border-radius: 9px;
+    text-transform: uppercase;
+    padding: 8px 165px 8px 165px;
+}
+.login-button:hover{
+    background-color: #FF5F1F;
+    font-weight: 700;
+    border-color: #FF5F1F;
+    border-radius: 9px;
+}
+.user-regis{
+	background-color: #191970;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    border-color: #FF5F1F;
+    border-radius: 9px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 160px 10px 160px;
+}
+.user-regis:hover{
+	color: #fff;
+}
+.login-fotter{
+	width: 100%;
+	height:15vh;
+	background-color: #fff;
+}
+.validate{
+	text-align: center;
+	font-family: elephant;
+	color: #FF0000;
+	font-size: 1.3rem;
+	font-weight: 600;
+}
+
+
+
+
+/*-----------------------LOGOUT-PAGE------------------------------*/
+.logout-container{
+    margin-top: 1.4rem;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    background-color: #fff;
+}
+.logout-container-box{
+    width: 40%;
+    margin-left: 5%;
+    height: 10vh;
+    background-color: #fff;
+}
+.logout-container-box img{
+    height: 8.5vh;
+}
+.logout-container-box-child{
+    width: 40%;
+    margin-left: 10%;
+    height: 10vh;
+    background-color: #fff;
+}
+.logout-container-box-child img{
+    float: right;
+    height: 8.5vh;
+    margin-right: 1rem;
+}
+.logout-page-container{
+    width: 39rem;
+    height: 20vh;
+    margin-top: 1rem;
+    margin-left: 28rem;
+    background-color: #fff;
+}
+.logout-page-container b{
+    font-size: 1.1rem;
+    color: #0000FF;
+    font-weight: 700;
+}
+.logout-page-container a{
+    text-decoration: none;
+    color: #0096FF;
+    margin-left: 11rem;
+}
+.logout-page-container a:hover{
+    text-decoration: underline;
+    color: #0096FF;
+}
+.logout-page-container-box{
+	width: 100%;
+	height: 17vh;
+}
+
+
+
+
+/*---------------TRAIN-LIST---------------------*/
+
+
+.train-form{
+    width: 98%;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    display: flex;
+    background: #213d77;
+}
+.train-form-container{
+    width: 100%;
+    height: auto;
+    margin-top: 1.5rem;
+    margin-left: 4rem;
+    margin-right: 4.5rem;
+}
+.train-form-container button{
+    background-color: #FF5F1F;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    border-color: #FB792B;
+    border-radius: 5px;
+    padding: 5px 25px 5px 25px;
+    margin-left: 1rem;
+}
+.train-list{
+    width: 98%;
+    height: auto;
+    margin-left: 1rem;
+    display: flex;
+   
+}
+.train-form-left-container{
+    width: 22%;
+    height: auto;
+    margin-top: -1.7rem;
+    background: url("../register/left-banner.jpeg");
+    border: 1px solid #213d77;
+}
+.train-form-center-container{
+    width: 80%;
+    height: auto;
+    background: #fff;
+    margin-left: 1rem;
+}
+.train-list-span{
+    width: 76%;
+    height: auto;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    margin-left: 21.8rem;
+    border: 1px solid #00008B;
+}
+.train-list-details{
+    width: 100%;
+    height: auto;
+    margin-top: 1.5rem;
+    border: 1px solid #213d77;
+}
+.train-list-details-head{
+    width: 100%;
+    height: auto;
+    display: flex;
+    background: #dcdcdc;
+}
+.train-list-details-head strong{
+    margin-top: .2rem;
+    margin-left: 1rem;
+    font-size: 1.5rem;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.train-list-details-head span{
+    margin-top: .5rem;
+    margin-left: 10rem;
+}
+.train-list-details-subHead{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.train-list-details-subHead span{
+    margin-left: 1rem;
+    font-size:1rem;
+    margin-top: .8rem;
+}/*
+.train-list-details-subHead p{
+    margin-left: 18rem;
+    font-size: 1.2rem;
+    margin-top: .8rem;
+}
+.train-list-details-subHead label{
+    margin-left: 20rem;
+    font-size: 1.2rem;
+    margin-top: .8rem;
+}*/
+.train_list_container{
+	width: 800px;
+	height: auto;
+	margin-left: .1rem;
+	display: flex;
+}
+.train_list_Container_box{
+	margin-left: 1rem;
+	width: 180px;
+	height: auto;
+	background: #f5f5f5;
+	border-radius: 6px;
+	cursor: pointer;
+	border: 1px solid #ccc;
+}
+.train-list-time{
+    width: 90%;
+    height: auto;
+}
+.train-list-time p{
+    margin-left: 4rem;
+    margin-top: -.5rem;
+}
+.book_ticket_button{
+	margin-top: .5rem;
+	width: 850px;
+	height: auto;
+	display: flex;
+}
+.train_list_Container_box b{
+    margin-left: 1rem;
+}
+
+
+/*---------------TRAIN-LIST---------------------*/
+
+.train-list-time-ntes{
+    margin-left: 1rem;
+}
+.train-list-time-ntes span{
+    color: #213d77;
+}
+.book_ticket_button button{
+	background: #fdc9aa;
+    text-align: center;
+    color: #fff;
+    margin-left:1.2rem;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 1px solid #fb792b;
+    padding: 8px 10px 8px 10px;	
+}
+.book_ticket_button button:hover{
+	color: #fff;
+	background: #fb792b;
+	 border: 1px solid #fb792b;
+}
+.book_ticket_button b{
+	margin-top: .8rem;
+    font-size: 1.5rem;
+}
+.train-ticket-fare{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+
+
+/*---------SL-CLASS-----------*/
+
+.sl_container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 10rem;
+}
+.sl_container_box{
+    width: 73%;
+    height: auto;
+    margin-left: 2rem;
+    box-sizing: border-box;
+}
+.sl_box{
+    width: 100%;
+    height: auto;
+    background: #fff;
+    border: 2px solid #ccc;
+}
+.sl_container-Head{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.sl_container-Head span{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.sl_container-Head p{
+    margin-left: 25%;
+    margin-top: 1rem;
+}
+.sl_container-Head b{
+    margin-top: 1rem;
+    margin-left: 16rem;
+}
+.sleeper-heading{
+    margin-left: 29rem;
+}
+.sl_container-subHead{
+    width: 73%;
+    height: auto;
+    background: #fff;
+    margin-left: 6rem;
+    margin-top: 1rem;
+    display: flex;
+    border: 2px solid #ccc;
+}
+.sl_container-subHead span{
+    color: #213d77;
+    margin-left: 2rem;
+    margin-top: .7rem;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+.sleeperNtes{
+    margin-top: 1rem;
+    margin-left: 7rem;
+}
+.sleeperNtes span{
+    color: #213d77;
+}
+.user-details{
+    width: 100%;
+    height: auto;
+    margin-top: 1rem;
+    background: #fff;
+    border: 2px solid #ccc;
+}
+.user-details-head{
+    width: 100%;
+    height: auto;
+    text-align: justify;
+    background: #ffccaa;
+}
+.user-details-head ul{
+    padding-top: .6rem;
+    font-weight: 600;
+    font-size: .9rem;
+   /* color: #a7a7a7;*/
+    font-family: Body, Quicksand, sans-serif;
+}
+.Det{
+    margin-top: 0rem;
+    margin-left: 1rem;
+    font-size: 1.3rem;
+    display: flex;
+    font-weight: 1000;
+}
+.sl-form-container{
+    margin-top: 1rem;
+    width: 100%;
+    height: auto;
+}
+.sl_contact{
+    margin-top: 1rem;
+    width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+}
+.sl_contact p{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-weight: 800;
+}
+.sl_contact span{
+     margin-left: 1.3rem;
+     padding: 8px 20px 8px 20px;
+     border: 1px solid #ccc;
+     background: #E2DFD2;
+}
+.sl_contact input{
+    margin-top: -2rem;
+    margin-left: 5rem;
+    font-weight: 800;
+}
+.sl_insurance{
+    margin-top: 1rem;
+    width: 100%;
+    height: auto;
+    background: #f5f5f5;
+    border: 2px solid #ccc;
+}
+.sl_insurance p{
+    margin-top: 0rem;
+    margin-left: 1rem;
+    font-size: 1.2rem;
+    display: flex;
+    font-weight: 700;
+}
+.sl_insurance small{
+    margin-top: .3rem;
+    margin-left: .3rem;
+}
+.sl_insurance input{
+    accent-color: #FF5733;size: 4rem;
+    font-weight: 800;
+    margin-top: 0rem;
+    margin-left: 1rem;
+}
+.sl_insurance span{ 
+    font-weight: 800;
+    margin-left: .3rem;
+}
+.sl_insurance a{ 
+    font-weight: 800;
+    color: #0096ff;
+    text-decoration: none;
+}
+.sl_insurance a:hover{ 
+    color: #0096ff;
+    text-decoration: underline;
+}
+.sl_container_box button{
+    background: #fb792b;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    border-color: #FB792B;
+    border-radius: 5px;
+    padding: 8px 10px 8px 10px;
+    margin-top: 2rem;
+}
+.anc_bt{
+    text-decoration: none;
+    color: #000;
+    font-size: 1.2rem;
+    margin-left: 1.3rem;
+    margin-top: 2rem;
+    padding: 6px 10px 7px 10px;
+    border: 1px solid #ccc; 
+    background: #f9f6ee;
+    font-weight: 700;
+}
+.anc_bt:hover{
+    color: #000;
+    border: 2px solid #FB792B;
+}
+.sl_banner{
+    width: 88.8%;
+    height: auto;
+    margin-left: 4.8rem;
+    margin-top: 1rem;
+    background: url(../register/sl-banner.jpeg)no-repeat;
+}
+.sl_about{
+    margin-top: 3rem;
+    width: 133%;
+    height: auto;
+}
+.sl_about p{
+   font-size: .8rem;
+   font-family: roboto,serif;
+}
+.ticket_fare{  
+    float: right;
+    width: 350px;
+    height: 16.8vh;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}
+.ticket_fare_price{
+    width: 100%;
+     height: 16.8vh;
+    border: 1px solid #213d77;
+}
+.ticket_fare_price_head{
+    width: 100%;
+    height: auto;
+    display: flex;
+    background: #dcdcdc;
+}
+.ticket_fare_price_head b{
+   margin-left: 1rem;
+   font-weight: 700;
+   font-size: 1.5rem;
+}
+.ticket_b{
+    margin-left: 1rem;
+    display: flex;
+    margin-top: 1rem;
+}
+.ticket_s{
+    margin-left: 18rem;
+    display: flex;
+    margin-top: -1.5rem;
+}
+.ticket_fare_price_subhead{
+    width: 100%;
+    height: auto;
+    display: flex;
+    color:#fff;
+    margin-top: .6rem;
+    background: #000c66;
+}
+.ticket_fare_price_subhead b{
+    margin-left: 1rem;
+    margin-top: .7rem;  
+}.ticket_fare_price_subhead span{
+    margin-left: 12.6rem;
+    margin-top: .7rem;  
+}
+.ticket_fare_img{
+    margin-top: 1rem;
+    /*background: url(../register/right-banner.jpeg);*/
+    height: auto;
+    width: 85%;
+    margin-left: 1.6rem;
+}
+
+/*---------------ReviewBoking------------------------*//*
+.sl_Review{
+    margin-top: 1rem;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.sl_Review_container{
+    width: 73%;
+    height: auto;
+    margin-left: 1rem;
+}
+.sl_Review_container a{
+    float: right;
+    margin-top: 1rem;
+    color: #0096FF;
+    font-weight: 600;
+    text-decoration: none;
+}
+.sl_Review_container a:hover{
+    color: #0096FF;
+    text-decoration: underline;
+}
+.sl_Review_Box{
+    width: 100%;
+    height: auto;
+    background: #fff;
+    border: 1px solid #ccc;
+}
+.sl_Review_Box_Head{
+    width: 100%;
+    height: auto;
+    display: flex;
+    background: #f5f5f5;
+}
+.sl_Review_Box_Head strong{
+    margin-top: .5rem;
+    margin-left: 1rem;
+    font-weight:600;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+.sl_Review_Box_Head_Container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: .5rem;
+}
+.sl_Review_Box_Head_Container span{
+    width: 18%;
+    margin-left: 1rem;
+}
+.sl_Review_Box_Head_Container p{
+    margin-left: 14%;
+}
+.sl_Review_Box_Head_Container label{
+    width: 20%;
+    margin-left: 13%;
+}
+.sl_Review_Box_Head_Container b{
+    margin-left: 15%;
+    color: #7CFC00;
+    text-transform: uppercase;
+}
+.sl_Review_Box_subHead{
+    margin-left: 20%;
+    height: auto;
+    width: 66%;
+    margin-top: 1rem;
+    background: #f5f5f5;
+}
+.sl_Review_Box small{
+    margin-left: 1rem;
+    font-weight: 600;
+}
+
+.Review_Box{
+    margin-top: 2rem;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+}
+.Review_Box_Head{
+    width: 100%;
+    height: auto;
+    display: flex;
+    background: #f5f5f5;
+}
+.Review_Box_Head strong{
+    margin-left: 1rem;
+    margin-top: .5rem;
+    font-size: 1.3rem;
+}
+.Review_Box b{
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.Review_Box small{
+    display: flex;
+    margin-top: -1.4rem;
+    margin-left: 12%;
+}
+.Review_Box_SubHead{
+    margin-top: 2rem;
+    width: 100%;
+    height: auto;
+    display: flex;
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+}
+.Review_Box_SubHead span{
+    margin-top: .5rem;
+    margin-left: 1rem;
+    font-family: plain;
+}
+.Review_banner{
+    margin-top: 4rem;
+    margin-left: 30%;
+    width: 27.2%;
+    height: auto;
+    border: 1px solid #ccc;
+}
+.Review_banner img{
+	width: 100%;
+	height: 100%;
+}
+.Review_input{
+    margin-left: 30%;
+    width: 27.2%;
+    height: auto;
+}
+.Review_input img{
+    width: 9%;
+    margin-top: -2.4rem;
+    float: right;
+    height: 5vh;
+}
+.Review_button{
+    width: 50%;
+    height: auto;
+    display: flex;
+    margin-left: 1rem;
+}
+.Review_button a{ 
+    font-weight: 800;
+    color: #000;
+    background: #f5f5f5;
+    padding: 5px 8px 5px 8px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    margin-top: 0rem;
+}
+.Review_button a:hover{ 
+    color: #000;
+    text-decoration: none;
+    border: 2px solid #FB792B;
+}
+.Review_button button{
+    background: #fb792b;
+    color: #fff;
+    font-weight: 700;
+    border-color: #FB792B;
+    border-radius: 5px;
+    margin-left:1rem;
+}
+.sl_Review_container_box{
+    width: 23%;
+    height: auto;
+    margin-left: 2rem;
+    border: 2px solid #ccc;
+}
+.sl_Review_container_box_head{
+    width: 100%;
+    height: auto;
+    display: flex;
+    background: #f5f5f5;
+}
+.sl_Review_container_box_head strong{
+    margin-left: 1rem;
+    font-size: 1.3rem;
+    margin-top: .5rem;
+    font-weight: 600;
+}
+.sl_Review_container_child{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.sl_Review_container_child p{
+    margin-left: 1rem;
+}
+.sl_Review_container_child label{
+   margin-left: 3.6rem;
+}
+.sl_Review_container_child span{
+    float: right;
+    margin-right: 1.1rem;
+}
+.sl_Review_container_subchild{
+    margin-top: .8rem;
+    width: 100%;
+    height: auto;
+    background: #00008B;
+}
+.sl_Review_container_subchild p{
+    margin-left: 1rem;
+    color: #fff;
+    font-weight: 600;
+    padding-top: .5rem;
+}
+.sl_Review_container_subchild label{
+    margin-left: 11rem;
+}
+.sl_Review_container_subchild span{
+    float: right;
+    margin-right: .6rem;
+}
+.sl_Review_banner{
+    margin-top: 0rem;
+    margin-left: 1.5rem;
+    width: 87%;
+    height: auto;
+    margin-right: 2rem;
+    border: 1px solid #ccc;
+}
+.sl_Review_banner img{
+	width: 100%;
+	height: 100%;
+}*/
+/*---------------ATM-CARD---------------------*/
+
+
+.atmBtn{
+    margin-left: 6.6rem;
+    border-radius: 4px;
+    padding: 5px 50px 5px 50px;
+}
+
+
+/*--------------CONFIRM-TICKET------------------*/
+
+
+.sl_Review_container h5{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.sl_Review_container h6{
+    color: #0fff50;
+}
+.sl_Review_container p{
+    margin-top: -.5rem;
+}
+.sl_Review_Box_Head b{
+    margin-left: 44rem;
+    margin-top: .5rem;
+    color: #ffac1c;
+}
+.Review_Box label{
+    margin-left: 1rem;
+    margin-top: .6rem;
+    color: #ccc;
+}
+.Review_Box span{
+    margin-left: 20rem;
+    margin-top: .6rem;
+    color: #ccc;
+}
+.confirmBookingBox{
+    height: ato;
+    width: 100%;
+    font-weight: 800;
+    display: flex;
+}
+.confirmBookingBox strong{
+    margin-left: 1rem;
+}
+.confirmBookingBox b{
+    margin-left: 25rem;
+    margin-top: 0rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: roboto,sans-serif;
+}
+.confirmBtn{
+    padding: 6px 50px 6px 50px;
+    background: #ffa500;
+    margin-right: 24rem;
+    border-radius: 5px;
+    color: red;
+}
+.confirmBtn:hover{
+    text-decoration: none;
+}
+
+
+
+/*---------PNR----------*/
+
+
+.pnr_parent{
+    width: 80%;
+    height: auto;
+    margin-left: 6rem;
+    background-color: #fff;
+}
+.pnr_parent_container{
+   width: 100%;
+   height: auto;
+   display: flex;
+   background-color: #fff;
+}
+.pnr_parent_container_child{
+    margin-top: 1rem;
+    width: 18%;
+    height: auto;
+    background-color: #fff;
+ }
+ .pnr_parent_container h2{
+    color: #000;
+    margin-top: 2.4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color: #fff;
+ }
+ .pnr_right_container{
+    width: 18%;
+    height: auto;
+    margin-top: 1rem;
+    background-color: #fff;
+ }
+ .pnr_right_container img{
+    float: right;
+ }
+ 
+
+/*-----------------FORGOTTON-Account-DETAILS------------*/
+
+.submit_btn {
+	background-color: orangered;
+	padding: 10px 150px 10px 150px;
+	border-radius: 10px;
+	color: #fff;
+	margin-left: 4rem;
+	border-color: 2px solid orangered;
+}
+
+.back_btn {
+	border-radius: 10px;
+	color: #fff;
+	text-decoration: none;
+	background-color: orangered;
+	padding: 10px 160px 10px 160px;
+	border-color: 2px solid orangered;
+}
+
+.back_btn:hover {
+	color: #fff;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+
+
+  
